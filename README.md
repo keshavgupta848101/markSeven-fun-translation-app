@@ -12,4 +12,4 @@
 
 # Live Link
 
-[Live Link]()
+[Live Link](https://yoda-translation-keshavgupta848101.netlify.app/)
